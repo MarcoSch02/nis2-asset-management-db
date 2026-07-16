@@ -1,4 +1,0 @@
-"servizio","asset","tipologia_asset","criticita_asset","dipendenza","responsabile","ruolo_responsabile","contatto"
-"Gestione Ordini","Server ERP","Server","Alta","Ospita il servizio","Mario Rossi","IT Manager","m.rossi@azienda.it"
-"Autenticazione Utenti","Firewall Perimetrale","Dispositivo di rete","Alta","Protegge il servizio","Laura Bianchi","Responsabile Sicurezza","l.bianchi@azienda.it"
-"Gestione Ordini","Database Clienti","Database","Molto Alta","Memorizza dati del servizio","Mario Rossi","IT Manager","m.rossi@azienda.it"
